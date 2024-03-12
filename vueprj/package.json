@@ -1,0 +1,33 @@
+{
+  "name": "vueprj",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "animate.css": "^4.1.1",
+    "axios": "^1.6.7",
+    "core-js": "^3.8.3",
+    "echarts": "^5.4.3",
+    "echarts-extension-amap": "^1.12.0",
+    "element-plus": "^2.5.5",
+    "file-saver": "^2.0.5",
+    "vue": "^3.2.13",
+    "vue-class-component": "^8.0.0-0",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "typescript": "~4.5.5"
+  }
+}
